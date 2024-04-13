@@ -1,0 +1,64 @@
+﻿  Source.cpp
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(21,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(22,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(65,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(65,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(65,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(66,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(66,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(66,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(67,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(67,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(67,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(252,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(252,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(264,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(264,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(286,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(326,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(331,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(337,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(349,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(349,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(353,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(358,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(358,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(365,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(365,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(396,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(401,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(407,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(419,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(419,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(423,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(428,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(428,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(435,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(435,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(471,10): warning C4305: '=': truncation from 'double' to 'float'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(477,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(479,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(480,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(482,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(488,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(489,18): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(492,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(493,15): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(562,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(563,20): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(568,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(575,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(582,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(583,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(588,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(595,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(602,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(611,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(612,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(618,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(620,18): warning C4305: '+=': truncation from 'double' to 'float'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(623,18): warning C4305: '-=': truncation from 'double' to 'float'
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(637,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(646,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\_repos\cpp-opengl-airship-battle\source\robot_example\Source.cpp(648,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  robot_example.vcxproj -> E:\_repos\cpp-opengl-airship-battle\source\Debug\airship-battle.exe

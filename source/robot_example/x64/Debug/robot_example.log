@@ -1,0 +1,43 @@
+﻿  Robot3D.cpp
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\cube.h(59,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\cube.h(64,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(20,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(24,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(29,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(31,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(236,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(240,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(240,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(240,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(256,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(268,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(287,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(308,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(308,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(310,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(310,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(313,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(329,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(329,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(331,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(331,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\SCHOOL\511 - Computer Graphics\vs\HierarchicalRobot\HierarchicalRobot\Robot3D.cpp(334,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl animationHandler(int)" (?animationHandler@@YAXH@Z)
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl animationHandler(int)" (?animationHandler@@YAXH@Z)
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+Robot3D.obj : error LNK2019: unresolved external symbol __imp_glutSolidCube referenced in function "void __cdecl drawBody(void)" (?drawBody@@YAXXZ)
+Robot3D.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Robot3D.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+D:\SCHOOL\511 - Computer Graphics\vs\robot_example\robot_example\Dependencies\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\SCHOOL\511 - Computer Graphics\vs\robot_example\x64\Debug\robot_example.exe : fatal error LNK1120: 16 unresolved externals
