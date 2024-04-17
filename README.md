@@ -15,3 +15,13 @@
 ## Installation
 1. Clone or Download repository
 2. Run "/source/Debug/airship-battle.exe"
+
+## Controls
+ 
+| Key    | Action |
+| -------- | ------- |
+| 'W'  | Move Forward    |
+| 'Left / Right Arrow' | Turn Left / Right     |
+| 'Up / Down Arrow'    | Change Elevation    |
+| 'Space Bar' | Shoot Missile     |
+| 'V'    | Toggle First-Person / Top-Down View    |
