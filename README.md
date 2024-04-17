@@ -1,5 +1,5 @@
 # cpp-opengl-airship-battle
- An Airship Battle Simulator in C++ with OpenGL
+ An Airship Battle Simulator in C++ with OpenGL for a School Project
 
  ![me](https://github.com/Edyth-K/cpp-opengl-airship-battle/blob/main/airshipbattle.gif)
  
