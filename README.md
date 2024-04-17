@@ -12,3 +12,6 @@
 	- when player gets hit, just falls to the ground
 * ground mesh + "buildings" scattered around the environment
 
+## Installation
+1. Clone or Download repository
+2. Run "/source/Debug/airship-battle.exe"
